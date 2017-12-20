@@ -1,0 +1,35 @@
+
+/* customize for body */ 
+
+/* customize for topbar */ 
+#topbar li a,#topbar .login { background-color:#2f8499} 
+#topbar a { color:#ffffff} 
+ #search input  { background-color:#fcfcfc} 
+ #search input  { color:#2f8499} 
+
+/* customize for header-main */ 
+
+/* customize for pav-mainnav */ 
+
+/* customize for footer-top */ 
+.pav-carousel { background-image:url(00466b)} 
+.pav-carousel, .pav-carousel .box-heading { color:#ef597f} 
+
+/* customize for footer-center */ 
+.footer-center, #footer .box .box-heading { color:#ffffff} 
+#footer .inputbox { background-color:#ffffff} 
+#footer .inputbox { color:#11575c} 
+#footer .social ul li { background-color:#6dcfd6} 
+
+/* customize for powered */ 
+
+/* customize for product */ 
+.price .price-old { color:#ccb6cc} 
+.product-info .price-tax { color:#b52d4f} 
+.cart input.button { background-color:#cae8eb} 
+.cart input { color:#0f000f} 
+.wishlist a { background-color:#555255} 
+.compare a { background-color:#555255} 
+.product-block .name, .product-block .name a { color:#ef597f} 
+
+/* customize for modules */ 
